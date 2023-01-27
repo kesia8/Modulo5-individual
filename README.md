@@ -16,7 +16,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 <h4>Npm install readline-sync (instalando o pacote readline para pegar inputs no terminal).
 <h4>Node ./index.js (rodando o codigo).
  <br><br>
-<h1>Demostração do projeto
+<h1>Demonstração do projeto
 <br><br>
 
 ![codigo](https://user-images.githubusercontent.com/112557978/215076342-b499f286-d473-476f-8352-e1c9a7f0ffbd.png)
